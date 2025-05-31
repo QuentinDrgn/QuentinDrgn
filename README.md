@@ -6,7 +6,7 @@
 
 > 🧪 *“Mixing logic with aesthetics to code the unexpected.”*
 
-I'm **[YourName]**, a dev & designer in love with vibrant UIs, experimental tech, and building tools and games that glow—literally.
+I'm QuentinDrgn, a dev & design enjoyer in love with vibrant UIs, experimental tech, and building tools and games that glow—literally.
 
 ---
 
@@ -20,23 +20,6 @@ I'm **[YourName]**, a dev & designer in love with vibrant UIs, experimental tech
   <img src="https://img.shields.io/badge/-Code_in_LIME-ABDD22?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/-Dream_in_PURPLE-865FF2?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
-## 🧬 Dynamic Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=000000&text_color=865ff2&icon_color=abdd22&title_color=abdd22&hide_border=true&border_radius=10" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=000000&ring=abdd22&fire=865ff2&currStreakLabel=abdd22" />
-</p>
-
-## 🌌 Featured Realms
-
-| Project | Description |
-|--------|-------------|
-| 🧩 **NeonPuzzles** | Arcade-style logic game with shader effects |
-| 💫 **LimeFusion** | Colorful CSS toolkit with live theme switch |
-| 🛠 **BitHacker** | CLI tool that converts files into glitch art |
-
----
 
 ## 🌍 Find Me in the Wild
 
