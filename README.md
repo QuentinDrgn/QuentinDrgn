@@ -1,49 +1,57 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/CODED%20IN-PURPLE%20%26%20LIME-865ff2?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=ABDD22&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+I'm+YourName+%F0%9F%92%BB;Creative+Coder+%7C+Game+Dev+%7C+Tech+Artist;Powered+by+Purple+%26+Lime%E2%9A%A1" alt="Typing SVG" />
 </p>
 
-## 🧬 Welcome, Traveler of Code
+## 🎨 Vibes of Code & Pixels
 
-> ✨ *"Every repo is a new universe. I build them with joy and clean syntax."*
+> 🧪 *“Mixing logic with aesthetics to code the unexpected.”*
 
-### 🌌 Who Am I?
-Hi, I'm **[YourName]**, a developer, creator, and pixel-dreamer. I'm passionate about crafting tools and worlds—digital or otherwise—that empower, entertain, or enchant.
-
-### 💡 Projects I'm Proud Of
-- 🎯 **NeonCraft**: A voxel engine powered by WebGL with shader lighting.
-- 🕶️ **GhostFrame**: A minimalist CSS framework in purple & lime.
-- 🧩 **PuzzleRun**: Arcade logic game built in Godot.
+I'm **[YourName]**, a dev & designer in love with vibrant UIs, experimental tech, and building tools and games that glow—literally.
 
 ---
 
-### 🛠️ My Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-865ff2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-abdd22?style=for-the-badge&logo=css3&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-865ff2?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-abdd22?style=for-the-badge&logo=react&logoColor=black)
-![Godot](https://img.shields.io/badge/-Godot-865ff2?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-abdd22?style=for-the-badge&logo=python&logoColor=black)
-
----
-
-### 📈 Stats Module
+## 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&icon_color=abdd22&text_color=865ff2&bg_color=000000&title_color=abdd22&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,godot,docker&theme=light" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Code_in_LIME-ABDD22?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Dream_in_PURPLE-865FF2?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+## 🧬 Dynamic Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=000000&text_color=865ff2&icon_color=abdd22&title_color=abdd22&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=000000&ring=abdd22&fire=865ff2&currStreakLabel=abdd22" />
+</p>
+
+## 🌌 Featured Realms
+
+| Project | Description |
+|--------|-------------|
+| 🧩 **NeonPuzzles** | Arcade-style logic game with shader effects |
+| 💫 **LimeFusion** | Colorful CSS toolkit with live theme switch |
+| 🛠 **BitHacker** | CLI tool that converts files into glitch art |
+
 ---
 
-### 🔌 Connect With Me
+## 🌍 Find Me in the Wild
 
-- 🧠 [Portfolio](https://yourportfolio.com)
-- 🛸 [Itch.io](https://your.itch.io)
-- 🗨️ [LinkedIn](https://linkedin.com/in/yourname)
-- 📮 [Email Me](mailto:you@example.com)
+<p align="center">
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-865ff2?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-abdd22?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://itch.io/yourprofile"><img src="https://img.shields.io/badge/Itch.io-865ff2?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-abdd22?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+</p>
 
----
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ABDD22&center=true&vCenter=true&width=435&lines=Building+code+with+style...;Powered+by+purple+and+lime.;Thanks+for+visiting!+%F0%9F%91%8B" />
-</div>
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center" style="font-style: italic;">
+  “Colors are variables. Pixels are loops. Code is magic.” 🧙‍♂️
+</p>
