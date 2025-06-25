@@ -6,7 +6,7 @@
 
 🎯 I'm **QuentinDrgn**, a full-stack **Web & Software Developer** crafting tools, apps, and digital experiences.  
 💡 I love bridging logic and design to create performant, user-friendly solutions.  
-🚀 Currently building things in **React**, **Node.js**, **Electron**, and **Python**.
+🚀 Currently building things in **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, and **Python**.
 
 ---
 
@@ -31,7 +31,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuentinDrgn&theme=dark&hide_border=true&background=000000&ring=abdd22&fire=865ff2&currStreakLabel=abdd22" />
 </p>
 
-<!-- ✨ ANIMATED CONTRIBUTION (SVG ALTERNATIVE OR SKYLINE) -->
 ## 🌈 Contribution Highlights
 
 <p align="center">
@@ -41,7 +40,6 @@
   <img src="https://raw.githubusercontent.com/denvercoder1/custom-icon-badges/dev/icons/github-contribution.gif" width="500" alt="GitHub contribution graph"/>
 </p>
 
-<!-- 📬 CONTACT -->
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -51,7 +49,6 @@
   <a href="https://github.com/QuentinDrgn"><img src="https://img.shields.io/badge/GitHub-865ff2?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<!-- 🎇 FINAL QUOTE -->
 <p align="center"><i>
 “Great software is not built in silence—it's forged through curiosity, creativity, and clean commits.” 🛠️✨
 </i></p>
