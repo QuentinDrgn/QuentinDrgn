@@ -13,7 +13,7 @@
 ## 💻 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,php,python,java,mysql,postgres,git,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,java,mysql,postgres,git,figma&theme=light" />
 </p>
 
 <p align="center">
